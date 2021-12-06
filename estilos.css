@@ -80,12 +80,15 @@ a {
 
 #subtitle_courses {
   font-size: 1.5rem;
-  padding: 0 0 0 2.2rem;
+  padding: 0 0 2rem 2.2rem;
+  margin: 0;
+
 }
 
 .related-author {
   grid-column-start: 1;
   grid-row-end: 4;
+  margin: 0;
 }
 
 .list {
@@ -94,7 +97,8 @@ a {
   grid-template-columns: 1fr;
   grid-row-start: 1;
   grid-row-end: 4;
-  margin: 0;
+  padding: 0 0 2.5rem;
+
 }
 
 #test {
@@ -112,4 +116,5 @@ a {
   grid-column-start: 1;
   grid-row-start: 1;
   font-size: 1.3rem;
+  
 }
