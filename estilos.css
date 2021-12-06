@@ -3,6 +3,7 @@ body {
   color: #555;
   line-height: 1.5rem;
   padding: 0 1.5rem 0 1.5rem;
+  font-size: 1.1em;
 }
 
 a {
@@ -34,6 +35,8 @@ a {
 .subtitles {
   color: #7798fc;
   font-size: 1.4em;
+  padding: 0.8rem 0;
+  
 }
 
 .subtitle_main {
@@ -49,7 +52,7 @@ a {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 2rem;
+  margin-bottom: 2.5rem;
 }
 
 .links_css {
@@ -62,18 +65,21 @@ a {
 .button_items {
   display: flex;
   justify-content: flex-end;
-  gap: 0.3rem;
+  gap: 0.4rem;
+  padding-bottom: 3.8rem;
 }
 
 .buttons {
   color: #8d69ee;
-  padding: 0.4rem;
+  padding: 0.6rem 1.4rem;
   cursor: pointer;
+  font-size: 1.2rem;
+  
 }
 
 #related_courses {
   background-color: #cafaee;
-  border-top: 2rem solid #eb7c4c;
+  border-top: 2.6rem solid #eb7c4c;
   border-bottom: 0.5rem solid #eb7c4c;
   padding: 4rem;
 }
@@ -114,4 +120,8 @@ a {
   grid-column-start: 1;
   grid-row-start: 1;
   font-size: 1.3rem;
+}
+
+#footer_course{
+    padding: 1rem;
 }
