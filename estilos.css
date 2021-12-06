@@ -25,6 +25,8 @@ a {
   color: #1c378b;
   font-style: italic;
   margin-bottom: 1.5rem;
+  text-transform: uppercase;
+  font-size: 2rem;
 }
 
 .link {
@@ -83,9 +85,10 @@ a {
 }
 
 #subtitle_courses {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   padding: 0 0 2rem 2.2rem;
   margin: 0;
+  text-transform: uppercase;
 }
 
 .related-author {
