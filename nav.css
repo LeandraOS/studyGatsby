@@ -1,0 +1,16 @@
+nav a {
+  display: flex;
+  align-items: center;
+  justify-content: initial;
+  padding: 1rem 2rem 1.5rem 1.5rem;
+  background-color: #d4d2d4;
+  margin: 0 0.2rem 0.4rem;
+  border-radius: 0.7rem;
+  font-size: 1.5rem;
+  color: #808080;
+}
+
+nav a:hover {
+  background-color: #00ff8f;
+  color: black;
+}

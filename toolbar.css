@@ -1,0 +1,26 @@
+.toolbar {
+  display: flex;
+
+}
+
+.icon {
+  margin-right: auto;
+}
+
+menu button {
+  background-color: #02ac1b;
+  margin: 0.5rem;
+  height: 3.2rem;
+  cursor: pointer;
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.3em;
+  flex-basis: 3rem;
+  border-radius: 0.5rem;
+  color: #fff;
+  font-size: 1rem;
+}
+
+menu button:hover {
+  background-color: #00ff8f;
+  color: black;
+}
